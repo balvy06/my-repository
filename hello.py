@@ -1,1 +1,2 @@
-print 'hello this is hello.py file!'
+# comment goes here
+print 'the second hello!'
